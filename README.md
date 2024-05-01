@@ -8,6 +8,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>         
 And I'm also studying to be a cybersecurity technologist.
           
-- 👯 I’m looking to collaborate on small projects in C, Python or HTML5 to gain practical experience.
+- 👯 I’m looking to collaborate on small projects in Python to gain practical experience.
 - 📫 How to reach me: ruancarlos.rc794@gmail.com
 - ⚡ Fun fact: I am learning the Italian and Russian language by myself.
