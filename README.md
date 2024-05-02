@@ -1,9 +1,15 @@
-### Hi, my name is Ruan Carlos 👋
+### Olá, meu nome e Ruan Carlos 👋
 
-- 🌱 I’m currently learning <br>
+- 🌱 Eu estou aprendendo: <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>         
-And I'm also studying to be a cybersecurity technologist.
+E também estou fazendo superior de tecnologia em Cibersegurança.
+        
+- 👯 Tenho interrese em participar de projetos em linguagem Python,apos terminar o curso que estou fazendo do mesmo,
+para adquirir experiencia, e posteriormente começarei a estudar HTML5 e também linguagem C.
+- ⚡ Fatos Divertidos: Eu gosto de aprender novas línguas, por diversão eu estou aprendendo italiano e russo, e é claro aproveitando para melhorar meu inglês.
+- 📫 Como me encontrar:
+  <br>
+  <a href= "www.linkedin.com/in/ruan-carlos-2b2193307" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
+  
           
-- 👯 I’m looking to collaborate on small projects in Python to gain practical experience.
-- 📫 How to reach me: ruancarlos.rc794@gmail.com
-- ⚡ Fun fact: I am learning the Italian and Russian language by myself.
+          
