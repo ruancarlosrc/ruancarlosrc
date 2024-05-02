@@ -7,9 +7,8 @@ E também estou fazendo superior de tecnologia em Cibersegurança.
 - 👯 Tenho interrese em participar de projetos em linguagem Python,apos terminar o curso que estou fazendo do mesmo,
 para adquirir experiencia, e posteriormente começarei a estudar HTML5 e também linguagem C.
 - ⚡ Fatos Divertidos: Eu gosto de aprender novas línguas, por diversão eu estou aprendendo italiano e russo, e é claro aproveitando para melhorar meu inglês.
-- 📫 Como me encontrar:
-  <br>
-  <a href= "www.linkedin.com/in/ruan-carlos-2b2193307" target= "_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" height="35"/>
+- 📫 Como me encontrar: ruancarlos.rc794@gmail.com
+  
   
           
           
